@@ -7,3 +7,5 @@ It is a real-life implimentation of **backtracking algorithm**.
 1. Puzzle will be generate by clicking on **Get New Puzzle**.
 
 2. Solve the sudoku by clicking on **Solve**.
+
+Thank you.
